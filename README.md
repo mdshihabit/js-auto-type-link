@@ -1,0 +1,1 @@
+# js-auto-type-link
